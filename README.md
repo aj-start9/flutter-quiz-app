@@ -1,4 +1,4 @@
-# dice_play
+# Quiz App
 
 A new Flutter project.
 
