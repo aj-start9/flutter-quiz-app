@@ -1,5 +1,4 @@
 import 'package:dice_play/data/questions.dart';
-import 'package:dice_play/question_screen.dart';
 import 'package:dice_play/questions_summary.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
